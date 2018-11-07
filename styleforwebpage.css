@@ -45,7 +45,7 @@ h1.header {
 .box2 {
   width: 30%;
   height: 10em;
-  background-color: green;
+  background-color: #2055aa;
   text-align: left;
   padding: 0.5em;
   margin: 0.5em;
@@ -55,7 +55,7 @@ h1.header {
 .box3 {
   width: 30%;
   height: 10em;
-  background-color: salmon;
+  background-color: #2055aa;
   text-align: left;
   padding: 0.5em;
   margin: 0.5em;
@@ -75,7 +75,7 @@ footer {
   width: 80%;
   margin: 0 auto;
   height: autoem;
-  background-color: red;
+  background-color: #a11fa5;
   display: flex;
   align-items: center;
   justify-content: center;
