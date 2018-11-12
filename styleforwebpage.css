@@ -35,7 +35,7 @@ h1.header {
 .box1 {
   width: 30%;
   height: 10em;
-  background-image:  url("https://www.google.co.uk/search?rlz=1C1CHBF_en-GBGB748GB748&biw=1265&bih=952&tbm=isch&sa=1&ei=PVTgW_aYEsz1gQbz4KHQAg&q=computer+science+in+health&oq=computer+science+in+health&gs_l=img.3..0i24k1.4264.10856.0.11023.28.24.4.0.0.0.94.1504.24.24.0....0...1c.1.64.img..0.15.901...0j0i7i30k1j0i8i7i30k1.0.RhGWpg9pVYc#imgrc=cIV5Q5dqeUvm5M:");
+  background-color: #2055aa;
   text-align: left;
   padding: 0.5em;
   margin: 0.5em;
@@ -62,7 +62,7 @@ h1.header {
   overflow: hidden;
 }
 
-/*overflow: hidden; hides "content here" text as you squeeze down the window—set box heights to "auto" and remove overflow hidden as you add content*/
+/*overflow: hidden; hides "content here" text as you squeeze down the windowï¿½set box heights to "auto" and remove overflow hidden as you add content*/
 
 p {
   font-family: roboto;
@@ -91,42 +91,40 @@ footer span {
 /*MEEEEEDIAAAA QUERIES*/
 
 @media only screen and (max-width: 800px) {
-  
-  
+
+
   #flexwrapper{
     display: block;
     width: 95%;
     margin: 0 auto;
   }
-  
+
   h1.header {
     font-size: 1.5em;
     padding-top: 0;
   }
-  
-  
+
+
 .box1{
     width: 90%;
     margin: .5rem 0 .5rem .85rem;
 
     }
-  
+
   .box2{
     width: 90%;
     margin: .5rem 0 .5rem .85rem;
 
     }
-  
+
   .box3{
     width: 90%;
     margin: .5rem 0 .5rem .85rem;
 
     }
-  
+
 
   footer span {
     font-size: 0.75em;
   }
 }
-
-
