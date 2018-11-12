@@ -71,6 +71,12 @@ p {
   color: white;
 }
 
+li {
+  font-family: roboto;
+  font-size: 1em;
+  color: white;
+}
+
 footer {
   width: 80%;
   margin: 0 auto;
